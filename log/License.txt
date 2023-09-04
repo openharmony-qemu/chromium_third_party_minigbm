@@ -1,1 +1,0 @@
-08:56:10 WARN  - OatFileAnalyser	third_party_minigbm	README.OpenSource	Khronos Group License         # 上游开源软件中包含的许可证信息
