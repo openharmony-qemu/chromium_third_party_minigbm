@@ -1,10 +1,11 @@
 [
     {
-        "Name": "minigbm",                   # 上游开源软件名全称
-        "License":        # 上游开源软件中包含的许可证信息
-        "License File": "LICENSE",        # 许可证所在文件路径
+        "Name": "minigbm",
+        "License": "BSD-3-Clause",
+        "License File": "LICENSE",
         "Version Number": "2e63aaf616cdda26019d265989bd0d96ee11aab9",
-        "Upstream URL": "https://chromium.googlesource.com/chromiumos/platform/minigbm.git@2e63aaf616cdda26019d265989bd0d96ee11aab9",   # 上游软件包发布地址
-        "Description": "第三方软件minigbm"           # 开源软件功能描述
+        "Owner": "huangjiewen2@huawei.com",
+        "Upstream URL": "https://chromium.googlesource.com/chromiumos/platform/minigbm.git@2e63aaf616cdda26019d265989bd0d96ee11aab9",
+        "Description": "第三方软件minigbm"
     }
 ]
