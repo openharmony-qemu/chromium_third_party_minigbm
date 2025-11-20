@@ -1,0 +1,11 @@
+[
+    {
+        "Name": "minigbm",
+        "License": "BSD-3-Clause",
+        "License File": "LICENSE",
+        "Version Number": "3018207f4d89395cc271278fb9a6558b660885f5",
+        "Owner": "huamengzheng@huawei.com",
+        "Upstream URL": "https://chromium.googlesource.com/chromiumos/platform/minigbm.git@3018207f4d89395cc271278fb9a6558b660885f5",
+        "Description": "第三方软件minigbm，将客户机中的OpenGL或Vulkan API调用请求转发到宿主机上的virglrenderer库进行处理，并通过virtqueue机制将处理结果返回给客户机"
+    }
+]
